@@ -1,2 +1,3 @@
-# FrontEndStore-site
-Second project based on HTML and CSS.
+# Store_site
+
+Froent end of a store site
